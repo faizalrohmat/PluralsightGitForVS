@@ -15,6 +15,9 @@ namespace VS2010GitDemo
             // these changes will be stashed
             // these changes will be stashed
             // master changes
+
+
+            // CHange from VS 2013
         }
     }
 }
