@@ -10,6 +10,9 @@ namespace VS2010GitDemo
         static void Main(string[] args)
         {
             // Changes on the main branch from VS 2010
+
+
+            // master changes
         }
     }
 }
